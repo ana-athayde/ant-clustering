@@ -4,9 +4,9 @@
 A formiga não empilha itens.
 Os itens não são obstáculos para a formiga. Isto significa que elas podem transitar sobre as placas e itens.
 A mesma quantidade de itens e de formigas vivas se mantém a mesma do início ao fim da aplicação.
-Não existe uso de informação de limiar. A fórmula relacional para pegar e largar já dá bons resultados.
+Não existe uso de informação de limiar. A fórmula relacional para pegar e largar já dá bons resultados.<br/>
 
-Etapas para construção do sistema:
+Etapas para construção do sistema:<br/>
 a) Criar ambiente no formato de matriz
 b) Distribuir itens (dados homogêneos) uniformemente na matriz
 c) Criar estrutura dos agentes que atuarão no ambiente (formigas vivas): i. definir raio de visão. Usar raio 01 inicialmente; ii. estado ocupado/livre; iii. estrutura para o item a ser carregado
